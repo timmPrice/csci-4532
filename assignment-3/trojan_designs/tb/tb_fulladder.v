@@ -1,4 +1,5 @@
-module tbadder ();
+module tb_fulladder ();
+
   reg  clk;
   reg  rst;
   reg  a;
@@ -7,7 +8,7 @@ module tbadder ();
   wire sum;
   wire cout;
 
-  fulladder f1 (
+  fulladder fa (
       clk,
       rst,
       a,
@@ -16,7 +17,7 @@ module tbadder ();
       sum,
       cout
   );
-  // system has active high reset...
+
   initial clk = 0;
   always #5 clk = ~clk;
   initial begin
@@ -32,25 +33,9 @@ module tbadder ();
     @(posedge clk);
 
     rst = 0;
-    a   = 0;
-    b   = 0;
-    cin = 1;
-
-    @(posedge clk);
-    @(posedge clk);
-
-    rst = 0;
     a   = 1;
     b   = 0;
     cin = 0;
-
-    @(posedge clk);
-    @(posedge clk);
-
-    rst = 0;
-    a   = 1;
-    b   = 0;
-    cin = 1;
 
     @(posedge clk);
     @(posedge clk);
@@ -65,6 +50,22 @@ module tbadder ();
 
     rst = 0;
     a   = 0;
+    b   = 0;
+    cin = 1;
+
+    @(posedge clk);
+    @(posedge clk);
+
+    rst = 0;
+    a   = 1;
+    b   = 0;
+    cin = 1;
+
+    @(posedge clk);
+    @(posedge clk);
+
+    rst = 0;
+    a   = 0;
     b   = 1;
     cin = 1;
 
@@ -84,9 +85,8 @@ module tbadder ();
     b   = 1;
     cin = 1;
 
-    $dumpfile("adder.vcd");
-    $dumpvars(0, tbadder);
+    // $dumpfile("out/fa_1.vcd");
+    // $dumpvars(0, tb_fulladder);
     #100 $finish(0);
   end
 endmodule
-
