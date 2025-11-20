@@ -12,33 +12,38 @@ module tb_decoder ();
       out
   );
 
+  integer i;
   initial clk = 0;
   initial reset = 1;
   always #5 clk = ~clk;
   initial begin
+
+    reset = 1;
+    @(posedge clk);
+    @(posedge clk);
+
     reset = 0;
-    $monitor("signals at time %t: in=%b, out=%b, rst=%b", $time, in, out, reset);
     in = 4'b0000;
 
     @(posedge clk);
     @(posedge clk);
 
-    in = 4'b1000;
+    // $monitor("signals at time %t: in=%b, out=%b, rst=%b", $time, in, out, reset);
 
-    @(posedge clk);
-    @(posedge clk);
+    for (i = 0; i < 16; i++) begin
+      in = i;
+      @(posedge clk);
+      @(posedge clk);
+      in = i;
+      @(posedge clk);
+      @(posedge clk);
+      in = i;
+      @(posedge clk);
+      @(posedge clk);
 
-    in = 4'b0100;
+      $display("signals at time %t: in=%b, out=%b, rst=%b", $time, in, out, reset);
 
-    @(posedge clk);
-    @(posedge clk);
-
-    in = 4'b0010;
-
-    @(posedge clk);
-    @(posedge clk);
-
-    in = 4'b0001;
+    end
     #100 $finish;
   end
 
