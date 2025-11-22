@@ -16,33 +16,52 @@ module tb_multiplier ();
 
   integer i;
   integer y;
+  integer product;
   initial clk = 0;
   always #5 clk = ~clk;
 
   initial begin
     reset = 1;
+
     @(posedge clk);
     @(posedge clk);
     @(posedge clk);
     @(posedge clk);
+    @(posedge clk);
+    @(posedge clk);
+
     reset = 0;
 
     a = 8'b00000000;
     b = 8'b00000000;
 
-    $monitor("signals at time %t: a=%d, b=%d, prod=%d, rst=%b", $time, a, b, prod, reset);
+    // $monitor("signals at time %t: a=%d, b=%d, prod=%d, rst=%b", $time, a, b, prod, reset);
 
     for (i = 0; i < 256; i++) begin
       for (y = 0; y < 256; y++) begin
+
         a = i;
         b = y;
+
+        @(posedge clk);
+        @(posedge clk);
         @(posedge clk);
         @(posedge clk);
 
         a = i;
         b = y;
+
         @(posedge clk);
         @(posedge clk);
+        @(posedge clk);
+        @(posedge clk);
+
+        product = i * y;
+
+        if (product != prod) begin
+          $display("signals at time %t: a=%d, b=%d, prod=%d, rst=%b", $time, a, b, prod, reset);
+        end
+
       end
     end
     #100 $finish(0);

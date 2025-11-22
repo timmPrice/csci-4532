@@ -1,0 +1,240 @@
+signals at time               246055: a= 12, b=  2, prod=    2, rst=0
+signals at time               246135: a= 12, b=  3, prod=    3, rst=0
+signals at time               246215: a= 12, b=  4, prod=    4, rst=0
+signals at time               246295: a= 12, b=  5, prod=    5, rst=0
+signals at time               246375: a= 12, b=  6, prod=    6, rst=0
+signals at time               246455: a= 12, b=  7, prod=    7, rst=0
+signals at time               246535: a= 12, b=  8, prod=    8, rst=0
+signals at time               246615: a= 12, b=  9, prod=    9, rst=0
+signals at time               246695: a= 12, b= 10, prod=   10, rst=0
+signals at time               246775: a= 12, b= 11, prod=   11, rst=0
+signals at time               246855: a= 12, b= 12, prod=   12, rst=0
+signals at time               246935: a= 12, b= 13, prod=   13, rst=0
+signals at time               247015: a= 12, b= 14, prod=   14, rst=0
+signals at time               247095: a= 12, b= 15, prod=   15, rst=0
+signals at time               247175: a= 12, b= 16, prod=   16, rst=0
+signals at time               247255: a= 12, b= 17, prod=   17, rst=0
+signals at time               247335: a= 12, b= 18, prod=   18, rst=0
+signals at time               247415: a= 12, b= 19, prod=   19, rst=0
+signals at time               247495: a= 12, b= 20, prod=   20, rst=0
+signals at time               247575: a= 12, b= 21, prod=   21, rst=0
+signals at time               247655: a= 12, b= 22, prod=   22, rst=0
+signals at time               247735: a= 12, b= 23, prod=   23, rst=0
+signals at time               247815: a= 12, b= 24, prod=   24, rst=0
+signals at time               247895: a= 12, b= 25, prod=   25, rst=0
+signals at time               247975: a= 12, b= 26, prod=   26, rst=0
+signals at time               248055: a= 12, b= 27, prod=   27, rst=0
+signals at time               248135: a= 12, b= 28, prod=   28, rst=0
+signals at time               248215: a= 12, b= 29, prod=   29, rst=0
+signals at time               248295: a= 12, b= 30, prod=   30, rst=0
+signals at time               248375: a= 12, b= 31, prod=   31, rst=0
+signals at time               248615: a= 12, b= 34, prod=   34, rst=0
+signals at time               248695: a= 12, b= 35, prod=   35, rst=0
+signals at time               248775: a= 12, b= 36, prod=   36, rst=0
+signals at time               248855: a= 12, b= 37, prod=   37, rst=0
+signals at time               248935: a= 12, b= 38, prod=   38, rst=0
+signals at time               249015: a= 12, b= 39, prod=   39, rst=0
+signals at time               249095: a= 12, b= 40, prod=   40, rst=0
+signals at time               249175: a= 12, b= 41, prod=   41, rst=0
+signals at time               249255: a= 12, b= 42, prod=   42, rst=0
+signals at time               249335: a= 12, b= 43, prod=   43, rst=0
+signals at time               249415: a= 12, b= 44, prod=   44, rst=0
+signals at time               249495: a= 12, b= 45, prod=   45, rst=0
+signals at time               249575: a= 12, b= 46, prod=   46, rst=0
+signals at time               249655: a= 12, b= 47, prod=   47, rst=0
+signals at time               249735: a= 12, b= 48, prod=   48, rst=0
+signals at time               249815: a= 12, b= 49, prod=   49, rst=0
+signals at time               249895: a= 12, b= 50, prod=   50, rst=0
+signals at time               249975: a= 12, b= 51, prod=   51, rst=0
+signals at time               250055: a= 12, b= 52, prod=   52, rst=0
+signals at time               250135: a= 12, b= 53, prod=   53, rst=0
+signals at time               250215: a= 12, b= 54, prod=   54, rst=0
+signals at time               250295: a= 12, b= 55, prod=   55, rst=0
+signals at time               250375: a= 12, b= 56, prod=   56, rst=0
+signals at time               250455: a= 12, b= 57, prod=   57, rst=0
+signals at time               250535: a= 12, b= 58, prod=   58, rst=0
+signals at time               250615: a= 12, b= 59, prod=   59, rst=0
+signals at time               250695: a= 12, b= 60, prod=   60, rst=0
+signals at time               250775: a= 12, b= 61, prod=   61, rst=0
+signals at time               250855: a= 12, b= 62, prod=   62, rst=0
+signals at time               250935: a= 12, b= 63, prod=   63, rst=0
+signals at time               251175: a= 12, b= 66, prod=   66, rst=0
+signals at time               251255: a= 12, b= 67, prod=   67, rst=0
+signals at time               251335: a= 12, b= 68, prod=   68, rst=0
+signals at time               251415: a= 12, b= 69, prod=   69, rst=0
+signals at time               251495: a= 12, b= 70, prod=   70, rst=0
+signals at time               251575: a= 12, b= 71, prod=   71, rst=0
+signals at time               251655: a= 12, b= 72, prod=   72, rst=0
+signals at time               251735: a= 12, b= 73, prod=   73, rst=0
+signals at time               251815: a= 12, b= 74, prod=   74, rst=0
+signals at time               251895: a= 12, b= 75, prod=   75, rst=0
+signals at time               251975: a= 12, b= 76, prod=   76, rst=0
+signals at time               252055: a= 12, b= 77, prod=   77, rst=0
+signals at time               252135: a= 12, b= 78, prod=   78, rst=0
+signals at time               252215: a= 12, b= 79, prod=   79, rst=0
+signals at time               252295: a= 12, b= 80, prod=   80, rst=0
+signals at time               252375: a= 12, b= 81, prod=   81, rst=0
+signals at time               252455: a= 12, b= 82, prod=   82, rst=0
+signals at time               252535: a= 12, b= 83, prod=   83, rst=0
+signals at time               252615: a= 12, b= 84, prod=   84, rst=0
+signals at time               252695: a= 12, b= 85, prod=   85, rst=0
+signals at time               252775: a= 12, b= 86, prod=   86, rst=0
+signals at time               252855: a= 12, b= 87, prod=   87, rst=0
+signals at time               252935: a= 12, b= 88, prod=   88, rst=0
+signals at time               253015: a= 12, b= 89, prod=   89, rst=0
+signals at time               253095: a= 12, b= 90, prod=   90, rst=0
+signals at time               253175: a= 12, b= 91, prod=   91, rst=0
+signals at time               253255: a= 12, b= 92, prod=   92, rst=0
+signals at time               253335: a= 12, b= 93, prod=   93, rst=0
+signals at time               253415: a= 12, b= 94, prod=   94, rst=0
+signals at time               253495: a= 12, b= 95, prod=   95, rst=0
+signals at time               253735: a= 12, b= 98, prod=   98, rst=0
+signals at time               253815: a= 12, b= 99, prod=   99, rst=0
+signals at time               253895: a= 12, b=100, prod=  100, rst=0
+signals at time               253975: a= 12, b=101, prod=  101, rst=0
+signals at time               254055: a= 12, b=102, prod=  102, rst=0
+signals at time               254135: a= 12, b=103, prod=  103, rst=0
+signals at time               254215: a= 12, b=104, prod=  104, rst=0
+signals at time               254295: a= 12, b=105, prod=  105, rst=0
+signals at time               254375: a= 12, b=106, prod=  106, rst=0
+signals at time               254455: a= 12, b=107, prod=  107, rst=0
+signals at time               254535: a= 12, b=108, prod=  108, rst=0
+signals at time               254615: a= 12, b=109, prod=  109, rst=0
+signals at time               254695: a= 12, b=110, prod=  110, rst=0
+signals at time               254775: a= 12, b=111, prod=  111, rst=0
+signals at time               254855: a= 12, b=112, prod=  112, rst=0
+signals at time               254935: a= 12, b=113, prod=  113, rst=0
+signals at time               255015: a= 12, b=114, prod=  114, rst=0
+signals at time               255095: a= 12, b=115, prod=  115, rst=0
+signals at time               255175: a= 12, b=116, prod=  116, rst=0
+signals at time               255255: a= 12, b=117, prod=  117, rst=0
+signals at time               255335: a= 12, b=118, prod=  118, rst=0
+signals at time               255415: a= 12, b=119, prod=  119, rst=0
+signals at time               255495: a= 12, b=120, prod=  120, rst=0
+signals at time               255575: a= 12, b=121, prod=  121, rst=0
+signals at time               255655: a= 12, b=122, prod=  122, rst=0
+signals at time               255735: a= 12, b=123, prod=  123, rst=0
+signals at time               255815: a= 12, b=124, prod=  124, rst=0
+signals at time               255895: a= 12, b=125, prod=  125, rst=0
+signals at time               255975: a= 12, b=126, prod=  126, rst=0
+signals at time               256055: a= 12, b=127, prod=  127, rst=0
+signals at time               256295: a= 12, b=130, prod=  130, rst=0
+signals at time               256375: a= 12, b=131, prod=  131, rst=0
+signals at time               256455: a= 12, b=132, prod=  132, rst=0
+signals at time               256535: a= 12, b=133, prod=  133, rst=0
+signals at time               256615: a= 12, b=134, prod=  134, rst=0
+signals at time               256695: a= 12, b=135, prod=  135, rst=0
+signals at time               256775: a= 12, b=136, prod=  136, rst=0
+signals at time               256855: a= 12, b=137, prod=  137, rst=0
+signals at time               256935: a= 12, b=138, prod=  138, rst=0
+signals at time               257015: a= 12, b=139, prod=  139, rst=0
+signals at time               257095: a= 12, b=140, prod=  140, rst=0
+signals at time               257175: a= 12, b=141, prod=  141, rst=0
+signals at time               257255: a= 12, b=142, prod=  142, rst=0
+signals at time               257335: a= 12, b=143, prod=  143, rst=0
+signals at time               257415: a= 12, b=144, prod=  144, rst=0
+signals at time               257495: a= 12, b=145, prod=  145, rst=0
+signals at time               257575: a= 12, b=146, prod=  146, rst=0
+signals at time               257655: a= 12, b=147, prod=  147, rst=0
+signals at time               257735: a= 12, b=148, prod=  148, rst=0
+signals at time               257815: a= 12, b=149, prod=  149, rst=0
+signals at time               257895: a= 12, b=150, prod=  150, rst=0
+signals at time               257975: a= 12, b=151, prod=  151, rst=0
+signals at time               258055: a= 12, b=152, prod=  152, rst=0
+signals at time               258135: a= 12, b=153, prod=  153, rst=0
+signals at time               258215: a= 12, b=154, prod=  154, rst=0
+signals at time               258295: a= 12, b=155, prod=  155, rst=0
+signals at time               258375: a= 12, b=156, prod=  156, rst=0
+signals at time               258455: a= 12, b=157, prod=  157, rst=0
+signals at time               258535: a= 12, b=158, prod=  158, rst=0
+signals at time               258615: a= 12, b=159, prod=  159, rst=0
+signals at time               258855: a= 12, b=162, prod=  162, rst=0
+signals at time               258935: a= 12, b=163, prod=  163, rst=0
+signals at time               259015: a= 12, b=164, prod=  164, rst=0
+signals at time               259095: a= 12, b=165, prod=  165, rst=0
+signals at time               259175: a= 12, b=166, prod=  166, rst=0
+signals at time               259255: a= 12, b=167, prod=  167, rst=0
+signals at time               259335: a= 12, b=168, prod=  168, rst=0
+signals at time               259415: a= 12, b=169, prod=  169, rst=0
+signals at time               259495: a= 12, b=170, prod=  170, rst=0
+signals at time               259575: a= 12, b=171, prod=  171, rst=0
+signals at time               259655: a= 12, b=172, prod=  172, rst=0
+signals at time               259735: a= 12, b=173, prod=  173, rst=0
+signals at time               259815: a= 12, b=174, prod=  174, rst=0
+signals at time               259895: a= 12, b=175, prod=  175, rst=0
+signals at time               259975: a= 12, b=176, prod=  176, rst=0
+signals at time               260055: a= 12, b=177, prod=  177, rst=0
+signals at time               260135: a= 12, b=178, prod=  178, rst=0
+signals at time               260215: a= 12, b=179, prod=  179, rst=0
+signals at time               260295: a= 12, b=180, prod=  180, rst=0
+signals at time               260375: a= 12, b=181, prod=  181, rst=0
+signals at time               260455: a= 12, b=182, prod=  182, rst=0
+signals at time               260535: a= 12, b=183, prod=  183, rst=0
+signals at time               260615: a= 12, b=184, prod=  184, rst=0
+signals at time               260695: a= 12, b=185, prod=  185, rst=0
+signals at time               260775: a= 12, b=186, prod=  186, rst=0
+signals at time               260855: a= 12, b=187, prod=  187, rst=0
+signals at time               260935: a= 12, b=188, prod=  188, rst=0
+signals at time               261015: a= 12, b=189, prod=  189, rst=0
+signals at time               261095: a= 12, b=190, prod=  190, rst=0
+signals at time               261175: a= 12, b=191, prod=  191, rst=0
+signals at time               261415: a= 12, b=194, prod=  194, rst=0
+signals at time               261495: a= 12, b=195, prod=  195, rst=0
+signals at time               261575: a= 12, b=196, prod=  196, rst=0
+signals at time               261655: a= 12, b=197, prod=  197, rst=0
+signals at time               261735: a= 12, b=198, prod=  198, rst=0
+signals at time               261815: a= 12, b=199, prod=  199, rst=0
+signals at time               261895: a= 12, b=200, prod=  200, rst=0
+signals at time               261975: a= 12, b=201, prod=  201, rst=0
+signals at time               262055: a= 12, b=202, prod=  202, rst=0
+signals at time               262135: a= 12, b=203, prod=  203, rst=0
+signals at time               262215: a= 12, b=204, prod=  204, rst=0
+signals at time               262295: a= 12, b=205, prod=  205, rst=0
+signals at time               262375: a= 12, b=206, prod=  206, rst=0
+signals at time               262455: a= 12, b=207, prod=  207, rst=0
+signals at time               262535: a= 12, b=208, prod=  208, rst=0
+signals at time               262615: a= 12, b=209, prod=  209, rst=0
+signals at time               262695: a= 12, b=210, prod=  210, rst=0
+signals at time               262775: a= 12, b=211, prod=  211, rst=0
+signals at time               262855: a= 12, b=212, prod=  212, rst=0
+signals at time               262935: a= 12, b=213, prod=  213, rst=0
+signals at time               263015: a= 12, b=214, prod=  214, rst=0
+signals at time               263095: a= 12, b=215, prod=  215, rst=0
+signals at time               263175: a= 12, b=216, prod=  216, rst=0
+signals at time               263255: a= 12, b=217, prod=  217, rst=0
+signals at time               263335: a= 12, b=218, prod=  218, rst=0
+signals at time               263415: a= 12, b=219, prod=  219, rst=0
+signals at time               263495: a= 12, b=220, prod=  220, rst=0
+signals at time               263575: a= 12, b=221, prod=  221, rst=0
+signals at time               263655: a= 12, b=222, prod=  222, rst=0
+signals at time               263735: a= 12, b=223, prod=  223, rst=0
+signals at time               263975: a= 12, b=226, prod=  226, rst=0
+signals at time               264055: a= 12, b=227, prod=  227, rst=0
+signals at time               264135: a= 12, b=228, prod=  228, rst=0
+signals at time               264215: a= 12, b=229, prod=  229, rst=0
+signals at time               264295: a= 12, b=230, prod=  230, rst=0
+signals at time               264375: a= 12, b=231, prod=  231, rst=0
+signals at time               264455: a= 12, b=232, prod=  232, rst=0
+signals at time               264535: a= 12, b=233, prod=  233, rst=0
+signals at time               264615: a= 12, b=234, prod=  234, rst=0
+signals at time               264695: a= 12, b=235, prod=  235, rst=0
+signals at time               264775: a= 12, b=236, prod=  236, rst=0
+signals at time               264855: a= 12, b=237, prod=  237, rst=0
+signals at time               264935: a= 12, b=238, prod=  238, rst=0
+signals at time               265015: a= 12, b=239, prod=  239, rst=0
+signals at time               265095: a= 12, b=240, prod=  240, rst=0
+signals at time               265175: a= 12, b=241, prod=  241, rst=0
+signals at time               265255: a= 12, b=242, prod=  242, rst=0
+signals at time               265335: a= 12, b=243, prod=  243, rst=0
+signals at time               265415: a= 12, b=244, prod=  244, rst=0
+signals at time               265495: a= 12, b=245, prod=  245, rst=0
+signals at time               265575: a= 12, b=246, prod=  246, rst=0
+signals at time               265655: a= 12, b=247, prod=  247, rst=0
+signals at time               265735: a= 12, b=248, prod=  248, rst=0
+signals at time               265815: a= 12, b=249, prod=  249, rst=0
+signals at time               265895: a= 12, b=250, prod=  250, rst=0
+signals at time               265975: a= 12, b=251, prod=  251, rst=0
+signals at time               266055: a= 12, b=252, prod=  252, rst=0
+signals at time               266135: a= 12, b=253, prod=  253, rst=0
+signals at time               266215: a= 12, b=254, prod=  254, rst=0
+signals at time               266295: a= 12, b=255, prod=  255, rst=0
